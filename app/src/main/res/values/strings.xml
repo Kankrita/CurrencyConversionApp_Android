@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CURRENCY CONVERTER</string>
+
+<!--    <string-array name="currencies_array">-->
+<!--        <item>Brazilian Real</item>-->
+<!--        <item>US Dollar</item>-->
+<!--    </string-array>-->
+</resources>
